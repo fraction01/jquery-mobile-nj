@@ -1,13 +1,14 @@
 {
   "name": "jquery-mobile-ninja",
+  "version": "0.0.1",
   "authors": [
     "abdellah <fraction.01@gmail.com>"
   ],
   "description": "jquery mobile with bower",
   "main": [
-    "jquery.mobile.custom.min.js",
-    "jquery.mobile.custom.structure.min.css",
-    "jquery.mobile.custom.theme.min.css"
+    "js/jquery.mobile.custom.min.js",
+    "css/jquery.mobile.custom.structure.min.css",
+    "css/jquery.mobile.custom.theme.min.css"
   ],
   "dependencies": {
     "jquery": "~2.1.4"
@@ -17,5 +18,4 @@
     "jquery",
     "mobile"
   ]
-  
 }
